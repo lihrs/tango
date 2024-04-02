@@ -35,7 +35,7 @@ export default defineConfig({
     'https://unpkg.com/react-is@18.2.0/umd/react-is.production.min.js',
     'https://unpkg.com/moment/min/moment-with-locales.js',
     'https://unpkg.com/styled-components@5.3.11/dist/styled-components.js',
-    'https://unpkg.com/antd@4.24.13/dist/antd-with-locales.min.js',
+    'https://unpkg.com/antd@4.24.15/dist/antd-with-locales.min.js',
     'https://unpkg.com/prettier@2.6.0/standalone.js',
     'https://unpkg.com/prettier@2.6.0/parser-babel.js',
   ],

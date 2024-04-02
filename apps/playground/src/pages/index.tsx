@@ -150,6 +150,7 @@ export default function App() {
         <WorkspacePanel>
           <WorkspaceView mode="design">
             <Sandbox
+              bundlerURL="https://local.netease.com/code"
               onMessage={(e) => {
                 if (e.type === 'done') {
                   const sandboxWindow: any = sandboxQuery.window;

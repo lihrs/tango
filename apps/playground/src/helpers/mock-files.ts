@@ -61,11 +61,11 @@ const tangoConfigJson = {
       type: 'baseDependency',
       resources: [
         'https://unpkg.com/@music163/antd@{{version}}/dist/index.js',
-        'https://unpkg.com/antd@4.24.13/dist/antd.css',
+        'https://unpkg.com/antd@4.24.15/dist/antd.css',
       ],
       designerResources: [
         'https://unpkg.com/@music163/antd@{{version}}/dist/designer.js',
-        'https://unpkg.com/antd@4.24.13/dist/antd.css',
+        'https://unpkg.com/antd@4.24.15/dist/antd.css',
       ],
     },
   },

@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.0.0-alpha.10 (2024-04-03)
+
+### Bug Fixes
+
+- optional context config ([70fc6f8](https://github.com/netease/tango/commit/70fc6f8030202f5d340281c0424752044ed0fb83))
+- refactor expSetter ([#41](https://github.com/netease/tango/issues/41)) ([d63517e](https://github.com/netease/tango/commit/d63517ecb936e4227e70c33e610664316625f4f4))
+- refactor VariableTree & Workspace ([#83](https://github.com/netease/tango/issues/83)) ([8c07821](https://github.com/netease/tango/commit/8c07821d93cea4dfc43f81ca948b845176821184))
+
+### Features
+
+- support multiple service modules & refactor workspace ([a7df29c](https://github.com/netease/tango/commit/a7df29c3debc56b187792d3e203b470e9d368ea5))
+
 # [1.0.0-alpha.9](https://github.com/netease/tango/compare/@music163/tango-context@1.0.0-alpha.8...@music163/tango-context@1.0.0-alpha.9) (2024-03-26)
 
 **Note:** Version bump only for package @music163/tango-context

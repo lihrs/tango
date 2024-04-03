@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.0.0-alpha.14 (2024-04-03)
+
+### Bug Fixes
+
+- add deprecated and data group to ComponentPropType ([#116](https://github.com/netease/tango/issues/116)) ([9f7441c](https://github.com/netease/tango/commit/9f7441c13400dba55c58b7dd6ce9429013edbc45))
+- add showSearch and showGroups to SettingForm & update internal icons ([#73](https://github.com/netease/tango/issues/73)) ([a8357f4](https://github.com/netease/tango/commit/a8357f45b8b0c1f2b91a856918f6bdecdc65aa73))
+- enhance expSetter ([#43](https://github.com/netease/tango/issues/43)) ([5ebbb42](https://github.com/netease/tango/commit/5ebbb428fb3fb786d330ab01959028443338d315))
+- fix lint errors ([f9e6537](https://github.com/netease/tango/commit/f9e6537dd6569f4196b2799d51dbaab9838fd7f2))
+- refactor action, formHeader, selectionDropdown ([#114](https://github.com/netease/tango/issues/114)) ([489118b](https://github.com/netease/tango/commit/489118b88aedc6672e2387f795253f94bcdf6f9b))
+- refactor parse expression ([#61](https://github.com/netease/tango/issues/61)) ([dbbd1dd](https://github.com/netease/tango/commit/dbbd1dddc75c532b7c9710ab0941c8680100f093))
+- refactor setting formItem ([b786de2](https://github.com/netease/tango/commit/b786de2f1a0e4e9141eb09fce696e45df633b232))
+- remove some useless setters ([7e9ab12](https://github.com/netease/tango/commit/7e9ab12503ed33c1e6acb8a1fa5fd89fc82d35fd))
+- remove useless codes ([813eb83](https://github.com/netease/tango/commit/813eb83ebb9ced891636f2653f25b6281386c18d))
+- render form item without setter & enhance tools ([#76](https://github.com/netease/tango/issues/76)) ([1acfa68](https://github.com/netease/tango/commit/1acfa6864b1faad1a441facc426d8d94b6b090b5))
+- update FormObject style ([#91](https://github.com/netease/tango/issues/91)) ([8fd085d](https://github.com/netease/tango/commit/8fd085d4fd41e588a5d3657add736a1e56088e4a))
+- update service preview panel ([#94](https://github.com/netease/tango/issues/94)) ([d6a08ee](https://github.com/netease/tango/commit/d6a08eecd2521e9699bee1ff3ffebb651a2a620d))
+- update setters and use tabOptions to filter props ([#129](https://github.com/netease/tango/issues/129)) ([93608d1](https://github.com/netease/tango/commit/93608d1037327afa4f755976b86427b6128ae3d0))
+- update SettingForm style ([#125](https://github.com/netease/tango/issues/125)) ([3f42516](https://github.com/netease/tango/commit/3f42516816968888554f719332d3cef7d8576aa8))
+- update theme ([2550411](https://github.com/netease/tango/commit/2550411c1c93037931d44aa9f7822ffe8caa900b))
+- update type ([1db5294](https://github.com/netease/tango/commit/1db52948dbdc28f4533eb968f7da1bf6d16173d4))
+- workspace onFilesChange ([#70](https://github.com/netease/tango/issues/70)) ([accd826](https://github.com/netease/tango/commit/accd8263764c811ea8175a9cd341fc6fa6c75967))
+
+### Features
+
+- add showItemSubtitle and renderItemExtra to SettingForm ([#99](https://github.com/netease/tango/issues/99)) ([32962d4](https://github.com/netease/tango/commit/32962d47fbef4a5cd59df0431eb4df951c36f521))
+- quick add sibling nodes ([#127](https://github.com/netease/tango/issues/127)) ([9ed6a7d](https://github.com/netease/tango/commit/9ed6a7d1a4944d69d96e034f243b61531862e317))
+- refactor setting-form ([8d396ff](https://github.com/netease/tango/commit/8d396ff13459beeb57b6b3c48f7e8fe1765041ae))
+- support code id ([#111](https://github.com/netease/tango/issues/111)) ([6c65362](https://github.com/netease/tango/commit/6c65362a5d5b2297b22f30c093c7d21a979630a1))
+- support local components ([#78](https://github.com/netease/tango/issues/78)) ([6fc0498](https://github.com/netease/tango/commit/6fc0498901d59fd9b8ac71c15acec1352f973646))
+
 # [1.0.0-alpha.13](https://github.com/netease/tango/compare/@music163/tango-setting-form@1.0.0-alpha.12...@music163/tango-setting-form@1.0.0-alpha.13) (2024-03-26)
 
 ### Features

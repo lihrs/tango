@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.0.0-alpha.6 (2024-04-03)
+
+### Bug Fixes
+
+- 优化变量树实现 ([#90](https://github.com/netease/tango/issues/90)) ([62d403f](https://github.com/netease/tango/commit/62d403f80a5ad08c216bc0c035ffc12c2cf329d2))
+- add deprecated and data group to ComponentPropType ([#116](https://github.com/netease/tango/issues/116)) ([9f7441c](https://github.com/netease/tango/commit/9f7441c13400dba55c58b7dd6ce9429013edbc45))
+- enhance expSetter ([#43](https://github.com/netease/tango/issues/43)) ([5ebbb42](https://github.com/netease/tango/commit/5ebbb428fb3fb786d330ab01959028443338d315))
+- isVariableString ([b9403cf](https://github.com/netease/tango/commit/b9403cfec668b2717a68e92a6f837d5a88096c7c))
+- parse variables from view ([089a482](https://github.com/netease/tango/commit/089a482f750e9d9a7743a6641d6e39989347d318))
+- refactor action, formHeader, selectionDropdown ([#114](https://github.com/netease/tango/issues/114)) ([489118b](https://github.com/netease/tango/commit/489118b88aedc6672e2387f795253f94bcdf6f9b))
+- refactor core helpers ([f9c9cbe](https://github.com/netease/tango/commit/f9c9cbefaef7b7fa46585798834e951ded36c68a))
+- refactor parse expression ([#61](https://github.com/netease/tango/issues/61)) ([dbbd1dd](https://github.com/netease/tango/commit/dbbd1dddc75c532b7c9710ab0941c8680100f093))
+- refactor update import specifiers ([#68](https://github.com/netease/tango/issues/68)) ([558f2cd](https://github.com/netease/tango/commit/558f2cd0a692c6bbc866d08250d25e2619af183f))
+- refactor VariableTree & Workspace ([#83](https://github.com/netease/tango/issues/83)) ([8c07821](https://github.com/netease/tango/commit/8c07821d93cea4dfc43f81ca948b845176821184))
+- update setters and use tabOptions to filter props ([#129](https://github.com/netease/tango/issues/129)) ([93608d1](https://github.com/netease/tango/commit/93608d1037327afa4f755976b86427b6128ae3d0))
+
+### Features
+
+- quick add sibling nodes ([#127](https://github.com/netease/tango/issues/127)) ([9ed6a7d](https://github.com/netease/tango/commit/9ed6a7d1a4944d69d96e034f243b61531862e317))
+- support code id ([#111](https://github.com/netease/tango/issues/111)) ([6c65362](https://github.com/netease/tango/commit/6c65362a5d5b2297b22f30c093c7d21a979630a1))
+- support local components ([#78](https://github.com/netease/tango/issues/78)) ([6fc0498](https://github.com/netease/tango/commit/6fc0498901d59fd9b8ac71c15acec1352f973646))
+
 # [1.0.0-alpha.5](https://github.com/netease/tango/compare/@music163/tango-helpers@1.0.0-alpha.4...@music163/tango-helpers@1.0.0-alpha.5) (2024-03-26)
 
 ### Features
